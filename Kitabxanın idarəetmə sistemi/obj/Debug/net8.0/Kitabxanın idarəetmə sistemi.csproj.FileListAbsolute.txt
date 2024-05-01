@@ -1,0 +1,42 @@
+C:\Users\Casper\Desktop\Kitabxanın idarəetmə sistemi\Kitabxanın idarəetmə sistemi\bin\Debug\net8.0\Kitabxanın idarəetmə sistemi.exe
+C:\Users\Casper\Desktop\Kitabxanın idarəetmə sistemi\Kitabxanın idarəetmə sistemi\bin\Debug\net8.0\Kitabxanın idarəetmə sistemi.deps.json
+C:\Users\Casper\Desktop\Kitabxanın idarəetmə sistemi\Kitabxanın idarəetmə sistemi\bin\Debug\net8.0\Kitabxanın idarəetmə sistemi.runtimeconfig.json
+C:\Users\Casper\Desktop\Kitabxanın idarəetmə sistemi\Kitabxanın idarəetmə sistemi\bin\Debug\net8.0\Kitabxanın idarəetmə sistemi.dll
+C:\Users\Casper\Desktop\Kitabxanın idarəetmə sistemi\Kitabxanın idarəetmə sistemi\bin\Debug\net8.0\Kitabxanın idarəetmə sistemi.pdb
+C:\Users\Casper\Desktop\Kitabxanın idarəetmə sistemi\Kitabxanın idarəetmə sistemi\obj\Debug\net8.0\Kitabxanın idarəetmə sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\Kitabxanın idarəetmə sistemi\Kitabxanın idarəetmə sistemi\obj\Debug\net8.0\Kitabxanın idarəetmə sistemi.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\Kitabxanın idarəetmə sistemi\Kitabxanın idarəetmə sistemi\obj\Debug\net8.0\Kitabxanın idarəetmə sistemi.AssemblyInfo.cs
+C:\Users\Casper\Desktop\Kitabxanın idarəetmə sistemi\Kitabxanın idarəetmə sistemi\obj\Debug\net8.0\Kitabxanın idarəetmə sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\Kitabxanın idarəetmə sistemi\Kitabxanın idarəetmə sistemi\obj\Debug\net8.0\Kitabxanın idarəetmə sistemi.dll
+C:\Users\Casper\Desktop\Kitabxanın idarəetmə sistemi\Kitabxanın idarəetmə sistemi\obj\Debug\net8.0\refint\Kitabxanın idarəetmə sistemi.dll
+C:\Users\Casper\Desktop\Kitabxanın idarəetmə sistemi\Kitabxanın idarəetmə sistemi\obj\Debug\net8.0\Kitabxanın idarəetmə sistemi.pdb
+C:\Users\Casper\Desktop\Kitabxanın idarəetmə sistemi\Kitabxanın idarəetmə sistemi\obj\Debug\net8.0\Kitabxanın idarəetmə sistemi.genruntimeconfig.cache
+C:\Users\Casper\Desktop\Kitabxanın idarəetmə sistemi\Kitabxanın idarəetmə sistemi\obj\Debug\net8.0\ref\Kitabxanın idarəetmə sistemi.dll
+C:\Users\Casper\Desktop\k\Kitabxanın idarəetmə sistemi\bin\Debug\net8.0\Kitabxanın idarəetmə sistemi.exe
+C:\Users\Casper\Desktop\k\Kitabxanın idarəetmə sistemi\bin\Debug\net8.0\Kitabxanın idarəetmə sistemi.deps.json
+C:\Users\Casper\Desktop\k\Kitabxanın idarəetmə sistemi\bin\Debug\net8.0\Kitabxanın idarəetmə sistemi.runtimeconfig.json
+C:\Users\Casper\Desktop\k\Kitabxanın idarəetmə sistemi\bin\Debug\net8.0\Kitabxanın idarəetmə sistemi.dll
+C:\Users\Casper\Desktop\k\Kitabxanın idarəetmə sistemi\bin\Debug\net8.0\Kitabxanın idarəetmə sistemi.pdb
+C:\Users\Casper\Desktop\k\Kitabxanın idarəetmə sistemi\obj\Debug\net8.0\Kitabxanın idarəetmə sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\k\Kitabxanın idarəetmə sistemi\obj\Debug\net8.0\Kitabxanın idarəetmə sistemi.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\k\Kitabxanın idarəetmə sistemi\obj\Debug\net8.0\Kitabxanın idarəetmə sistemi.AssemblyInfo.cs
+C:\Users\Casper\Desktop\k\Kitabxanın idarəetmə sistemi\obj\Debug\net8.0\Kitabxanın idarəetmə sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\k\Kitabxanın idarəetmə sistemi\obj\Debug\net8.0\Kitabxanın idarəetmə sistemi.dll
+C:\Users\Casper\Desktop\k\Kitabxanın idarəetmə sistemi\obj\Debug\net8.0\refint\Kitabxanın idarəetmə sistemi.dll
+C:\Users\Casper\Desktop\k\Kitabxanın idarəetmə sistemi\obj\Debug\net8.0\Kitabxanın idarəetmə sistemi.pdb
+C:\Users\Casper\Desktop\k\Kitabxanın idarəetmə sistemi\obj\Debug\net8.0\Kitabxanın idarəetmə sistemi.genruntimeconfig.cache
+C:\Users\Casper\Desktop\k\Kitabxanın idarəetmə sistemi\obj\Debug\net8.0\ref\Kitabxanın idarəetmə sistemi.dll
+C:\Users\Casper\Desktop\Kitabxana\Kitabxanın idarəetmə sistemi\bin\Debug\net8.0\Kitabxanın idarəetmə sistemi.exe
+C:\Users\Casper\Desktop\Kitabxana\Kitabxanın idarəetmə sistemi\bin\Debug\net8.0\Kitabxanın idarəetmə sistemi.deps.json
+C:\Users\Casper\Desktop\Kitabxana\Kitabxanın idarəetmə sistemi\bin\Debug\net8.0\Kitabxanın idarəetmə sistemi.runtimeconfig.json
+C:\Users\Casper\Desktop\Kitabxana\Kitabxanın idarəetmə sistemi\bin\Debug\net8.0\Kitabxanın idarəetmə sistemi.dll
+C:\Users\Casper\Desktop\Kitabxana\Kitabxanın idarəetmə sistemi\bin\Debug\net8.0\Kitabxanın idarəetmə sistemi.pdb
+C:\Users\Casper\Desktop\Kitabxana\Kitabxanın idarəetmə sistemi\obj\Debug\net8.0\Kitabxanın idarəetmə sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\Kitabxana\Kitabxanın idarəetmə sistemi\obj\Debug\net8.0\Kitabxanın idarəetmə sistemi.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\Kitabxana\Kitabxanın idarəetmə sistemi\obj\Debug\net8.0\Kitabxanın idarəetmə sistemi.AssemblyInfo.cs
+C:\Users\Casper\Desktop\Kitabxana\Kitabxanın idarəetmə sistemi\obj\Debug\net8.0\Kitabxanın idarəetmə sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\Kitabxana\Kitabxanın idarəetmə sistemi\obj\Debug\net8.0\Kitabxanın idarəetmə sistemi.dll
+C:\Users\Casper\Desktop\Kitabxana\Kitabxanın idarəetmə sistemi\obj\Debug\net8.0\refint\Kitabxanın idarəetmə sistemi.dll
+C:\Users\Casper\Desktop\Kitabxana\Kitabxanın idarəetmə sistemi\obj\Debug\net8.0\Kitabxanın idarəetmə sistemi.pdb
+C:\Users\Casper\Desktop\Kitabxana\Kitabxanın idarəetmə sistemi\obj\Debug\net8.0\Kitabxanın idarəetmə sistemi.genruntimeconfig.cache
+C:\Users\Casper\Desktop\Kitabxana\Kitabxanın idarəetmə sistemi\obj\Debug\net8.0\ref\Kitabxanın idarəetmə sistemi.dll
